@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-12T06:06:56.447Z</updated>
+  <updated>2020-05-12T07:38:03.797Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Detail</title>
+    <link href="http://yoursite.com/2020/05/12/Detail/"/>
+    <id>http://yoursite.com/2020/05/12/Detail/</id>
+    <published>2020-05-12T07:36:51.000Z</published>
+    <updated>2020-05-12T07:38:03.797Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+  </entry>
+  
+  <entry>
     <title>compare between Oracle and SQL Server</title>
     <link href="http://yoursite.com/2020/05/12/compare-between-Oracle-and-SQL-Server/"/>
     <id>http://yoursite.com/2020/05/12/compare-between-Oracle-and-SQL-Server/</id>
     <published>2020-05-12T06:06:18.000Z</published>
-    <updated>2020-05-12T06:06:56.447Z</updated>
+    <updated>2020-05-12T07:33:45.755Z</updated>
     
     <summary type="html">
     
@@ -30,6 +49,12 @@
     </summary>
     
     
+      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
     
   </entry>
   
@@ -55,7 +80,7 @@
     <link href="http://yoursite.com/2020/05/09/w/"/>
     <id>http://yoursite.com/2020/05/09/w/</id>
     <published>2020-05-09T08:34:49.000Z</published>
-    <updated>2020-05-09T08:34:49.887Z</updated>
+    <updated>2020-05-12T07:45:25.173Z</updated>
     
     <summary type="html">
     
