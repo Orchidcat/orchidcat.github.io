@@ -6,6 +6,14 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>compare between Oracle and SQL Server</title>
+    <url>/2020/05/12/compare-between-Oracle-and-SQL-Server/</url>
+    <content><![CDATA[<p>Both MySQL vs SQL Server are popular choices in the market; let us discuss some of the major Difference Between MySQL and SQL Server:</p>
+<a id="more"></a>
+<p>MySQL is mainly used for the PHP projects or applications. SQL server is mainly used for the.Net applications or Windows projects.<br>In MySQL, there are multiple storage engines which give developers more flexibility to use the engine for the tables based on the performance. One of the popular storage engines is InnoDB. SQL server can use only one or having a single storage engine.<br>In MySQL, once the query has been executed, it cannot be canceled in mid-way. In SQL server, the query can be canceled in mid-way after the execution.<br>MySQL does not have any tool which provides security. SQL Server has a security tool which ensures the data security etc. that is MS baseline security analyzer tool.<br>MySQL is free of cost and free to use. SQL server is licensed and need to purchase licenses to use and run multiple databases. It is really costly to buy multiple licenses.<br>For MySQL, it is required to pay for getting support or assistance. SQL server has wider community support or online forums. Microsoft support is also paid for providing support to the bSQL server.<br>If MySQL used with.Net, then third party tools are required to download for getting started. If the SQL server is used with.Net, inbuilt framework classes provide the compatibility and can be started with LINQ queries as well.<br>MySQL uses the Enterprise manager as IDE tool. SQL server uses the management studio as IDE for developing the queries.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的博客</title>
     <url>/2020/05/11/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>6,880,000 条结果时间不限<br>页面置换算法及其优缺点详解<br>2020-4-22 · 本节，讨论几种页面置换算法。为此，假设有 3 个帧并且引用串为：<br>7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1 FIFO页面置换 FIFO 算法是最简单的页面置换算法。FIFO 页面置换算法为每个页面记录了调</p>
