@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-12T07:38:03.797Z</updated>
+  <updated>2020-05-12T07:51:54.474Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,76 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Detail</title>
-    <link href="http://yoursite.com/2020/05/12/Detail/"/>
-    <id>http://yoursite.com/2020/05/12/Detail/</id>
-    <published>2020-05-12T07:36:51.000Z</published>
-    <updated>2020-05-12T07:38:03.797Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
-    
-    
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>compare between Oracle and SQL Server</title>
-    <link href="http://yoursite.com/2020/05/12/compare-between-Oracle-and-SQL-Server/"/>
-    <id>http://yoursite.com/2020/05/12/compare-between-Oracle-and-SQL-Server/</id>
-    <published>2020-05-12T06:06:18.000Z</published>
-    <updated>2020-05-12T07:33:45.755Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Both MySQL vs SQL Server are popular choices in the market; let us discuss some of the major Difference Between MySQL and SQL Server:&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
-    
-    
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
-    
-  </entry>
-  
-  <entry>
     <title>我的博客</title>
-    <link href="http://yoursite.com/2020/05/11/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/05/11/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-05-11T00:06:14.000Z</published>
-    <updated>2020-05-11T01:06:44.531Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;6,880,000 条结果时间不限&lt;br&gt;页面置换算法及其优缺点详解&lt;br&gt;2020-4-22 · 本节，讨论几种页面置换算法。为此，假设有 3 个帧并且引用串为：&lt;br&gt;7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1 FIFO页面置换 FIFO 算法是最简单的页面置换算法。FIFO 页面置换算法为每个页面记录了调&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>w</title>
-    <link href="http://yoursite.com/2020/05/09/w/"/>
-    <id>http://yoursite.com/2020/05/09/w/</id>
-    <published>2020-05-09T08:34:49.000Z</published>
-    <updated>2020-05-12T07:45:25.173Z</updated>
+    <link href="http://yoursite.com/2020/05/12/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2020/05/12/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-05-12T07:51:54.000Z</published>
+    <updated>2020-05-12T07:51:54.474Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+      <category term="UnArchived" scheme="http://yoursite.com/categories/UnArchived/"/>
+    
+    
+      <category term="UnArchived" scheme="http://yoursite.com/tags/UnArchived/"/>
     
   </entry>
   
